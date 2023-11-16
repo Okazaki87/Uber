@@ -898,6 +898,10 @@ footer a:hover {
   .work_prizin {
     height: 2780px;
   }
+  .vibor_item_ft_1 img {
+    display: block;
+    max-width: 400px;
+  }
 }
 @media (max-width: 575px) {
   .subheader {
